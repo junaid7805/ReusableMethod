@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 public class ReusableMethod1 
-{
+{  
 	
 	public static WebElement byId(WebDriver driver, String id)
 	{

@@ -23,7 +23,7 @@ public class TextFieldClickButton {
 		WebElement login= ReusableMethod1.byLinkText(driver, "Login");
 		ReusableMethod1.clickButton(login);
 		 
-
+ 
 	}
 
 }
